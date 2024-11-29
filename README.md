@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Flutter Developer 📱** .
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+- 🌱 I’m currently learning **Flutter**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AhmedOmarG3?page=1&tab=repositories)**.
 
