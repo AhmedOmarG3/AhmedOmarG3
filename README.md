@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Flutter Developer 📱** .
+- I'm a passionate Computer Science Student and Mobile Developer.
 
 - 🌱 I’m currently learning **Flutter**.
 
