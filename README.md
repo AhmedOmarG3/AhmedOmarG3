@@ -32,19 +32,11 @@
 
 ## 📊 My Stats:
 
-<p align="center">
-    <a href="https://github.com/AhmedOmarG3/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AhmedOmarG3's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmarG3&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/AhmedOmarG3/github-readme-stats"><img alt="AhmedOmarG3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AhmedOmarG3/github-readme-stats"><img alt="AhmedOmarG3's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedOmarG3&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
-<br>
 
 ## 🤝 Connect With Me:
 
