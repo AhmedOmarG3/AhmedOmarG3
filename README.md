@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- I'm a passionate Computer Science Student and Flutter Developer.
+- I'm a passionate Computer Science Student and flutter Developer.
 
 - 🌱 I’m currently learning **Flutter**.
 
@@ -18,64 +18,17 @@
 </div>
 
 
-## 🚀 Skills
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode" /><br>
+</div>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="70" /><br/>
-      <sub><b>Flutter</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="70" /><br/>
-      <sub><b>Dart</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="70" /><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="70" /><br/>
-      <sub><b>BLoC</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" width="70" /><br/>
-      <sub><b>Cubit</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/cfug/dio/master/assets/dio-logo.png" width="70" /><br/>
-      <sub><b>Dio</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" /><br/>
-      <sub><b>Git</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" /><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" /><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="70" /><br/>
-      <sub><b>Android Studio</b></sub>
-    </td>
-  </tr>
-</table>
-
-
-
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 📊 My Stats:
 <div align="center">
