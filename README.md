@@ -18,36 +18,52 @@
 </div>
 
 
-## 🚀 Languages & Tools
+## 🚀 Skills
 
-### 🧩 Flutter Ecosystem
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="50" />
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" height="50" />
-  <img src="https://skillicons.dev/icons?i=git,github" height="50" />
+
+  <!-- Flutter -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Dart -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Firebase -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Bloc -->
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Dio -->
+  <img src="https://raw.githubusercontent.com/cfug/dio/master/assets/dio-logo.png" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Provider -->
+  <img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/logo.png" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px; background: white;"/>
+
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
+  <!-- Android Studio -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
+       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+
 </div>
 
-### 🔧 State Management & Architecture
-<div align="center">
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GetX-1F1F1F?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
-
-### 🛠️ APIs & Backend Integration
-<div align="center">
-  <img src="https://img.shields.io/badge/Dio-E34F26?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-</div>
-
-### 🗄️ Local Storage
-<div align="center">
-  <img src="https://img.shields.io/badge/SharedPreferences-007ACC?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FDD835?style=for-the-badge&logo=flutter&logoColor=black" />
-  <img src="https://img.shields.io/badge/Sqflite-FFA726?style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
 
 
 ## 📊 My Stats:
