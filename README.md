@@ -18,17 +18,37 @@
 </div>
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages & Tools
+
+### 🧩 Flutter Ecosystem
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,bloc,firbase" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="50" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="50" />
 </div>
 
-<br>
+### 🔧 State Management & Architecture
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-1F1F1F?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-00897B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
-<br>
+
+### 🛠️ APIs & Backend Integration
+<div align="center">
+  <img src="https://img.shields.io/badge/Dio-E34F26?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</div>
+
+### 🗄️ Local Storage
+<div align="center">
+  <img src="https://img.shields.io/badge/SharedPreferences-007ACC?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-FDD835?style=for-the-badge&logo=flutter&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sqflite-FFA726?style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+
 
 ## 📊 My Stats:
 <div align="center">
