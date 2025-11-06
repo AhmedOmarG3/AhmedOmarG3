@@ -20,47 +20,57 @@
 
 ## 🚀 Skills
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <!-- Flutter -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
   <!-- Dart -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
   <!-- Firebase -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
   <!-- Bloc -->
   <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px; background:white;"/>
+
+  <!-- Cubit -->
+  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" 
+       width="70" height="70"
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px; background:white;"/>
 
   <!-- Dio -->
   <img src="https://raw.githubusercontent.com/cfug/dio/master/assets/dio-logo.png" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
-
-  <!-- Provider -->
-  <img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/logo.png" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
   <!-- GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px; background: white;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px; background:white;"/>
 
   <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70" 
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
   <!-- Android Studio -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
-       width="70" height="70" style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 10px;"/>
+       width="70" height="70"
+       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
 
 </div>
 
