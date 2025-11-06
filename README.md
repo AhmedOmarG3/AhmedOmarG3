@@ -20,59 +20,60 @@
 
 ## 🚀 Skills
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="70" /><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
 
-  <!-- Flutter -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="70" /><br/>
+      <sub><b>Dart</b></sub>
+    </td>
 
-  <!-- Dart -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="70" /><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
 
-  <!-- Firebase -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" width="70" /><br/>
+      <sub><b>BLoC</b></sub>
+    </td>
 
-  <!-- Bloc -->
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px; background:white;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" width="70" /><br/>
+      <sub><b>Cubit</b></sub>
+    </td>
 
-  <!-- Cubit -->
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_small.png" 
-       width="70" height="70"
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px; background:white;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/cfug/dio/master/assets/dio-logo.png" width="70" /><br/>
+      <sub><b>Dio</b></sub>
+    </td>
 
-  <!-- Dio -->
-  <img src="https://raw.githubusercontent.com/cfug/dio/master/assets/dio-logo.png" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
 
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
 
-  <!-- GitHub -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px; background:white;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" /><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
 
-  <!-- VS Code -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-       width="70" height="70" 
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="70" /><br/>
+      <sub><b>Android Studio</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <!-- Android Studio -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
-       width="70" height="70"
-       style="border: 2px solid #444; border-radius: 12px; padding: 10px; margin: 8px;"/>
-
-</div>
 
 
 
