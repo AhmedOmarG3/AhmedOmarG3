@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- I'm a passionate Computer Science Student and Mobile Developer.
+- I'm a passionate Computer Science Student and Flutter Developer.
 
 - 🌱 I’m currently learning **Flutter**.
 
