@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,bloc,firbase" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode" /><br>
 </div>
 
