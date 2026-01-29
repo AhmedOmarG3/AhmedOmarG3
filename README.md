@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AhmedOmarG3?page=1&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/AhmedOmarG3?page=1&tab=repositories)**.
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
