@@ -58,8 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="180" />
 
  <!-- Contribution Graph -->
-  
-  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
 </p>
 
