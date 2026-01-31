@@ -51,11 +51,14 @@
 **Additional Tools:**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+## 📊 My GitHub Stats
+
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="200" />
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true" height="200" alt="activity-graph graph" />
+  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="180" />
+
+ <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
 </p>
 
 
