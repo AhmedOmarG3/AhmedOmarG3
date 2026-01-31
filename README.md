@@ -54,12 +54,27 @@
 
 ## 📊 My Stats:
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true" alt="activity-graph graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="200" alt="languages graph"/>
-</div>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true" height="180" />
+</p>
+
+<p align="center">
+  <!-- Total Contributions -->
+  <img src="https://komarev.com/ghpvc/?username=AhmedOmarG3&label=Total+Contributions&color=blueviolet&style=flat" height="40" />
+</p>
+
 
 
 
