@@ -51,29 +51,17 @@
 **Additional Tools:**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## 📊 My Stats:
+## 📊 My GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="180" />
-</p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
-
-  <!-- Activity Graph -->
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true" height="180" />
 </p>
 
-<p align="center">
-  <!-- Total Contributions -->
-  <img src="https://komarev.com/ghpvc/?username=AhmedOmarG3&label=Total+Contributions&color=blueviolet&style=flat" height="40" />
-</p>
+
 
 
 
