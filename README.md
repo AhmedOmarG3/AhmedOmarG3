@@ -61,29 +61,21 @@
 ## 📊 GitHub Stats:
 <div align="center">
     
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AhmedOmarG3&theme=radical&hide_border=true" height="200" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=redical&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="200" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&layout=compact&theme=radical&hide_border=true&langs_count=6" height="200" alt="languages graph"/>
   
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmarG3&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmarG3&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophy graph"  />
 </div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=AhmedOmarG3&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
