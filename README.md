@@ -57,21 +57,16 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+## 📊 GitHub Stats:
 
-## 📊 My Stats:
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" />
-  
-  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="180" />
+![](https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true)<br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true" height="220" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&theme=radical&hide_border=true&layout=compact&langs_count=6)<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&layout=compact&theme=radical&hide_border=true&langs_count=5" height="160" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true)
 
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmarG3&theme=radical&no-frame=true&no-bg=true" height="150" />
-
-</div>
 
 
 ## 🏆 GitHub Trophies
