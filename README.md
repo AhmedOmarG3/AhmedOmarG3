@@ -41,20 +41,52 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-## 💻 Tech Stack:
+## 💻 Tech Stack & Skills:
 
+### Programming & Computer Science:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![OOP](https://img.shields.io/badge/OOP-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%23FF6B6B.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-%234CAF50.svg?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+### Mobile Development (Flutter):
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-%23FF4088.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Animation](https://img.shields.io/badge/Animation-%23FF6B9D.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%2325A162.svg?style=for-the-badge&logo=testing-library&logoColor=white)
+
+### State Management & Architecture:
+![Bloc](https://img.shields.io/badge/Bloc-%23239120.svg?style=for-the-badge&logo=bloc&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit-%23239120.svg?style=for-the-badge&logo=bloc&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-%230078D4.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23009688.svg?style=for-the-badge&logo=architecture&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-%23FFA500.svg?style=for-the-badge&logo=solid&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt%20(DI)-%235C2D91.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & Data Handling:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![RESTful API](https://img.shields.io/badge/RESTful%20API-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-%2302569B.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-%23FF6F00.svg?style=for-the-badge&logo=apache-hive&logoColor=white)
+![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-%234285F4.svg?style=for-the-badge&logo=android&logoColor=white)
+
+### Design Tools:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+### Version Control & Tools:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### AI & Productivity:
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![AI Tools](https://img.shields.io/badge/Write%20with%20AI-%2300A67E.svg?style=for-the-badge&logo=chatbot&logoColor=white)
 
 **Additional Tools:**
 
