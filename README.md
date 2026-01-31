@@ -58,16 +58,21 @@
 </div>
 <br>
 
-## 📊 GitHub Stats:
+## 📊 My Stats:
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedOmarG3&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedOmarG3&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" />
+  
+  <img src="https://streak-stats.demolab.com?user=AhmedOmarG3&theme=radical&hide_border=true" height="180" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedOmarG3&theme=radical&hide_border=true&area=true" height="220" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmarG3&layout=compact&theme=radical&hide_border=true&langs_count=5" height="160" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedOmarG3&theme=radical&no-frame=true&no-bg=true" height="150" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 
