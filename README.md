@@ -8,7 +8,7 @@
 
 - I'm a passionate Computer Science Student and Flutter Developer.
 
-- 🌱 I'm currently learning **Flutter**.
+-  Flutter Developer passionate about building scalable mobile applications using Clean Architecture, Bloc/Cubit, REST APIs, and AI-powered solutions.
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/AhmedOmarG3?page=1&tab=repositories)**.
 
