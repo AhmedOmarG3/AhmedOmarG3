@@ -22,15 +22,15 @@
 
 ### 🎓 Quizify — AI-Powered Assessment Platform *(Graduation Project, A+)*
 AI-powered digital assessment platform recognized among the Best Graduation Projects at the Faculty of Computers and Artificial Intelligence, Beni-Suef University. Built with Flutter, Cubit, Clean Architecture, and Gemini AI.
-- 🔗 [View on GitHub](#)
+- 🔗 [Live Preview](https://appetize.io/embed/b_em35xo2ekb6gjwyvx3ehz4rlru)
 
 ### 💰 E7sebha — Expense Manager App *(Google Play)*
 Personal finance app for tracking expenses and income with clear analytics and visual insights, built with Flutter, Bloc, and local persistence via Hive.
-- 🔗 [View on Google Play](#) | [View on GitHub](#)
+- 🔗 [View on Google Play](https://play.google.com/store/apps/details?id=com.ahmed.ahsebha)
 
 ### 🕌 Siraty — Islamic App *(Google Play • 100+ Downloads)*
 Islamic app featuring Quran & Azkar, prayer times, an interactive Sebha, and offline content, built with Flutter, Bloc, and Dio.
-- 🔗 [View on Google Play](#) | [View on GitHub](#)
+- 🔗 [View on Google Play](https://play.google.com/store/apps/details?id=com.ahmed.siraty)
 
 <br>
 
